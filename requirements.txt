@@ -1,0 +1,4 @@
+ver1:
+	nltk
+	parsivar
+	PyPDF2
